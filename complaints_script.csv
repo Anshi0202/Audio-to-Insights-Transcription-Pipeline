@@ -1,0 +1,51 @@
+id,file_stem,true_category,text
+1,complaint_01,Billing,I was charged twice for my monthly subscription and nobody has refunded the extra amount.
+2,complaint_02,Billing,"My latest bill is almost double what I normally pay, and I haven't changed my plan."
+3,complaint_03,Billing,There is a service fee on my invoice that I never agreed to. Please explain it or remove it.
+4,complaint_04,Billing,"I paid my bill on the first of the month, but I still got a late payment penalty."
+5,complaint_05,Billing,"The price on the website was forty-nine dollars, but I was charged sixty-five at checkout."
+6,complaint_06,Billing,I cancelled my subscription last month and you are still billing my card.
+7,complaint_07,Billing,"Your billing team keeps sending me different amounts for the same invoice, and nobody can tell me which one is correct."
+8,complaint_08,Billing,"I was overcharged for shipping, and the discount code I used was never applied."
+9,complaint_09,Delivery,"My order was supposed to arrive last Monday, and it still hasn't shown up."
+10,complaint_10,Delivery,"The tracking page has said out for delivery for three days, and nothing has arrived."
+11,complaint_11,Delivery,"The courier left my package at the wrong address, and now I can't find it."
+12,complaint_12,Delivery,"I paid extra for express shipping, and my parcel still took ten days to arrive."
+13,complaint_13,Delivery,The delivery driver never rang the bell and marked my order as delivered.
+14,complaint_14,Delivery,"Only half of my order arrived, and the rest is apparently still in the warehouse."
+15,complaint_15,Delivery,"The package was left outside in the rain, and everything inside is soaked."
+16,complaint_16,Delivery,"Every time I contact the courier, they tell me to contact the seller, and the seller tells me to contact the courier."
+17,complaint_17,Product quality,The phone I received has a cracked screen right out of the box.
+18,complaint_18,Product quality,The blender stopped working after just two days. It is clearly defective.
+19,complaint_19,Product quality,"The shirt looks nothing like the photos, and the fabric is really poor quality."
+20,complaint_20,Product quality,"The item arrived with missing parts, so I can't even use it."
+21,complaint_21,Product quality,"The laptop battery drains in under an hour, which is nowhere near what the description promised."
+22,complaint_22,Product quality,The shoes started falling apart after one week of normal use.
+23,complaint_23,Product quality,I received a used product that was sold to me as brand new.
+24,complaint_24,Product quality,The color is completely different from what is shown online. I am very disappointed.
+25,complaint_25,Customer service,"I have called your support line four times, and each time I was on hold for more than forty minutes."
+26,complaint_26,Customer service,The agent I spoke with was rude and hung up on me in the middle of the call.
+27,complaint_27,Customer service,I sent three emails last week and haven't received a single reply.
+28,complaint_28,Customer service,"Every agent tells me something different, and nobody takes responsibility for my case."
+29,complaint_29,Customer service,"I was promised a callback within twenty-four hours, and it has been a week."
+30,complaint_30,Customer service,The live chat kept disconnecting before my problem was solved.
+31,complaint_31,Customer service,"Nobody at your company knows about my previous complaint, so I had to explain everything again."
+32,complaint_32,Customer service,"The representative was polite, but he couldn't solve my problem, and I am still waiting."
+33,complaint_33,Refund/Return,"I returned my order a month ago, and I still haven't received my refund."
+34,complaint_34,Refund/Return,"Your return policy says thirty days, but you rejected my return on day twenty-five."
+35,complaint_35,Refund/Return,"I asked for a replacement, and instead you sent me a coupon that I don't want."
+36,complaint_36,Refund/Return,I want my money back because the product is not what was advertised.
+37,complaint_37,Refund/Return,"My refund was approved two weeks ago, but the money has not appeared in my account."
+38,complaint_38,Refund/Return,"I was told I would get a prepaid return label, and it never arrived."
+39,complaint_39,Refund/Return,"I cancelled my order within five minutes, and you still shipped it."
+40,complaint_40,Refund/Return,You refunded only half of the amount and gave me no explanation.
+41,complaint_41,Technical issue,The app crashes every time I try to open my order history.
+42,complaint_42,Technical issue,"I can't log in to my account, and the password reset email never arrives."
+43,complaint_43,Technical issue,The website froze at checkout and I lost everything in my cart.
+44,complaint_44,Technical issue,"After the latest update, the app is slower and keeps logging me out."
+45,complaint_45,Technical issue,"The payment page showed an error message, but my card was still charged."
+46,complaint_46,Technical issue,The mobile app doesn't send me notifications about my orders anymore.
+47,complaint_47,Technical issue,I keep receiving verification codes that don't work.
+48,complaint_48,Technical issue,Your website won't let me upload my invoice. It just says something went wrong.
+49,complaint_49,Other,I am writing to complain about your new packaging. It is wasteful and impossible to open.
+50,complaint_50,Other,"I have been a loyal customer for five years, but this experience has made me seriously consider switching to another company."
